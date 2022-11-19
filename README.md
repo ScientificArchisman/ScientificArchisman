@@ -13,7 +13,7 @@ Currently, I am working on a few research papers alongside Microbiologists. My w
 
 ---
 
-🧰 ToolBox
+# 🧰 ToolBox
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "PPython" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt = "Pytorch" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "CSS" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt = "Anaconda" height = "50px" width = "50px">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt = "Latex" height = "50px" width = "50px">
