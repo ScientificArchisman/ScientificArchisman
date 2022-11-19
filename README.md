@@ -23,8 +23,9 @@ Currently, I am working on a few research papers alongside Microbiologists. My w
 
 ---
 
-![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScientificArchisman&count_private=true&show_icons-true&theme=marko)
+![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScientificArchisman&count_private=true&show_icons-true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScientificArchisman&repo=Simulations)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
