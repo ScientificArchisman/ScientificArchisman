@@ -3,7 +3,9 @@
 ---
 
 I am currently a Physics student doing my undergraduate studies. 
+
 I am moderately experienced with Python and dabbling in the fields of Machine Learning and Deep learning (especially Convolutional Neural Networks) for my work.
+
 I like to create simulations of real life physical systems and visualise them with various visualisation tools.
 Currently, I am working on a few research papers alongside Microbiologists. My work mainly includes data analysis and designing of models to fit various physical systems as presented by practical experiments.
 
