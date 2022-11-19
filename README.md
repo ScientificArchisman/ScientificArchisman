@@ -22,24 +22,37 @@ Currently, I am working on a few research papers alongside Microbiologists. My w
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "JavaScript" width = "50px" height = "50px">
 
 ---
+## &#x1f4c8; My GitHub Stats
 
 ![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScientificArchisman&count_private=true&show_icons-true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScientificArchisman&repo=Simulations)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScientificArchisman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+# Pinned
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScientificArchisman&repo=Simulations" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScientificArchisman&repo=pyundergraduate" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScientificArchisman&repo=Research-Work-Undergraduatte-" />
+</a>
 
+---
 <!--
 **ScientificArchisman/ScientificArchisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on designing a model for modelling growth of bacteria in different environments.
+- 🌱 I’m currently learning HTML, CSS, JavaScript apart from my coursework in Physics.
+- 👯 I’m looking to collaborate on computational physics expeiments and DataScience projects
+- 🤔 I’m looking for help with Convolutional Neural Networks
+- 💬 Ask me about simulating physics in real life
+- 📫 How to reach me: Mail me at archismanninja@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like to collect knives and lighters.
 -->
