@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a **physics** student doing my undergraduate studies. 
+I am currently a **physics** student going for my masters ar IIT Kgp
 
 I am moderately experienced with Python and  am dabbling in the fields of **Machine Learning and Deep learning** (especially Convolutional Neural Networks) for my work.
 
